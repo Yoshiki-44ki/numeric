@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Yoshiki Harada.
+ * 23/02/2020
+ * this code finds an area of a triangle with given lengths
  */
 
 package areaoftriangle.java;
